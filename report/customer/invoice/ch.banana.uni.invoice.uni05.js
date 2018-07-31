@@ -16,13 +16,7 @@
 // @api = 1.0
 // @pubdate = 2018-04-30
 // @publisher = Banana.ch SA
-// @description = Style 5: Invoice with net amounts, quantity column, with logo, 2 colours
-// @description.it = Stile 5: Fattura con importi netti, colonna quantità, con logo, 2 colori
-// @description.de = Stil 5: Rechnung mit Nettobeträgen, Mengenspalte, mit Logo, 2 Farben
-// @description.fr = Style 5: Facture avec montants nets, colonne quantité, avec logo, 2 couleurs
-// @description.nl = Stijl 5: Factuur met netto bedragen, hoeveelheid kolom, met logo, 2 kleuren
-// @description.en = Style 5: Invoice with net amounts, quantity column, with logo, 2 colours
-// @description.zh = 样式 5: 发票与净额, 数量列, 标志, 2颜色
+// @description = MlikeMusic, Michele Pagliarulo, www.mlikemusic.ch, Invoice
 // @doctype = *
 // @task = report.customer.invoice
 
